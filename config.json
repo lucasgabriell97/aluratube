@@ -1,0 +1,134 @@
+{
+  "name": "Lucas Gabriell",
+  "job": "Front-end Developer",
+  "github": "lucasgabriell97",
+  "playlists": {
+    "jogos": [
+      {
+        "title": "Jogando a COPA do INÍCIO ao FIM com PORTUGAL | FIFA 23",
+        "url": "https://www.youtube.com/watch?v=dStkO1NApOQ",
+        "thumb": "https://img.youtube.com/vi/dStkO1NApOQ/hqdefault.jpg"
+      },
+      {
+        "title": "1º SUPER CAMPEONATO DE FUT DO CANAL | Haxball",
+        "url": "https://www.youtube.com/watch?v=URxtEY3_VUA",
+        "thumb": "https://img.youtube.com/vi/URxtEY3_VUA/hqdefault.jpg"
+      },
+      {
+        "title": "BATALHA DE HERÓIS - Bullet Echo",
+        "url": "https://www.youtube.com/watch?v=8_R4C1NSoaQ",
+        "thumb": "https://img.youtube.com/vi/8_R4C1NSoaQ/hqdefault.jpg"
+      },
+      {
+        "title": "GTA SAN ANDREAS ATÉ ZERAR",
+        "url": "https://www.youtube.com/watch?v=kf2Zkzr2NT4",
+        "thumb": "https://img.youtube.com/vi/kf2Zkzr2NT4/hqdefault.jpg"
+      },
+      {
+        "title": "Super Mario World - Zerado Completo - 100%",
+        "url": "https://www.youtube.com/watch?v=ejwxrD4E6io",
+        "thumb": "https://img.youtube.com/vi/ejwxrD4E6io/hqdefault.jpg"
+      },
+      {
+        "title": "As MELHORES ARMAS da SEASON 10 do COD MOBILE!",
+        "url": "https://www.youtube.com/watch?v=i51JtXz2EAI",
+        "thumb": "https://img.youtube.com/vi/i51JtXz2EAI/hqdefault.jpg"
+      },
+      {
+        "title": "Zelda do SNES - ZERADO 100%",
+        "url": "https://www.youtube.com/watch?v=ui1hn9Wbypc",
+        "thumb": "https://img.youtube.com/vi/ui1hn9Wbypc/hqdefault.jpg"
+      },
+      {
+        "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
+        "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
+        "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+      },
+      {
+        "title": "Reunindo tudo em um único CSS - @Curso em Vídeo HTML5 e CSS3",
+        "url": "https://www.youtube.com/watch?v=DkA_OQgjjKg",
+        "thumb": "https://img.youtube.com/vi/DkA_OQgjjKg/hqdefault.jpg"
+      },
+      {
+        "title": "TUDO que você deve estudar de JavaScript antes do React",
+        "url": "https://www.youtube.com/watch?v=37SwqREHRGI",
+        "thumb": "https://img.youtube.com/vi/37SwqREHRGI/hqdefault.jpg"
+      },
+      {
+        "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+        "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+        "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+      },
+      {
+        "title": "React JS // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=NhUr8cwDiiM",
+        "thumb": "https://img.youtube.com/vi/NhUr8cwDiiM/hqdefault.jpg"
+      },
+      {
+        "title": "Como Foi Programado um App Que Faz Mágica",
+        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+      },
+      {
+        "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+        "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+        "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+      },
+      {
+        "title": "5 Erros Históricos do CSS",
+        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+      },
+      {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      },
+
+      {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+      },
+      {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+      },
+      {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      },
+      {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ]
+  }
+}
